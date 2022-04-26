@@ -1,0 +1,11 @@
+{
+  "name": "pretty-assertions",
+  "version": "0.0.1",
+  "description": "libraty building pretty chains of assertions",
+  "main": "index.js",
+  "author": "Derbent Ninjas",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
