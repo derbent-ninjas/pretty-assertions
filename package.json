@@ -1,7 +1,7 @@
 {
   "name": "pretty-assertions",
   "version": "0.0.1",
-  "description": "libraty building pretty chains of assertions",
+  "description": "library building pretty chains of assertions",
   "author": "Derbent Ninjas",
   "license": "MIT",
   "devDependencies": {
